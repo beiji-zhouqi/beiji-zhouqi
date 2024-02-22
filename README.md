@@ -1,9 +1,9 @@
 ## Hi there 👋，I'm beiji-zhouqi
 
 **About me**
-- 💼 QA&Tester
-- 📈 Pythoner
-- ❤️ I love writing autotest scripts.
+- 💼 I am a quality manager and  a test engineer.
+- 📈 I'm a Python engineer and love to write all kinds of interesting projects in Python.
+- ❤️ I love write a wide variety of interfaces, UI automation platforms, scripts, and tools on the job.
 - 💬 Ask me about anything. [here](https://www.cnblogs.com/daniel2010)
 
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
